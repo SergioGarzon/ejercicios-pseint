@@ -7,6 +7,8 @@ Algoritmo sin_titulo
 	// cada iteracion, para ello utilizar una variable que
 	// vaya sumando los resultados obtenidos, al finalizar el programa
 	// mostrar el resultado.
+
+    Escribir "HOLA"
 	
 	
 FinAlgoritmo
